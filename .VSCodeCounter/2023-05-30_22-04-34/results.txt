@@ -1,0 +1,71 @@
+Date : 2023-05-30 22:04:34
+Directory : d:\Projects\PimVIDesktop
+Total : 31 files,  2427 codes, 27 comments, 259 blanks, all 2713 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| YAML       |          1 |      1,132 |          0 |        183 |      1,315 |
+| Vue        |         16 |      1,030 |          3 |         39 |      1,072 |
+| JavaScript |          6 |        134 |         19 |         21 |        174 |
+| JSON       |          2 |         81 |          0 |          1 |         82 |
+| TOML       |          1 |         16 |          3 |          5 |         24 |
+| Rust       |          2 |         14 |          2 |          4 |         20 |
+| HTML       |          1 |         13 |          0 |          2 |         15 |
+| Markdown   |          1 |          4 |          0 |          4 |          8 |
+| CSS        |          1 |          3 |          0 |          0 |          3 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                        | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                           |         31 |      2,427 |         27 |        259 |      2,713 |
+| . (Files)                                                   |          7 |      1,216 |         10 |        196 |      1,422 |
+| src                                                         |         20 |      1,135 |         12 |         54 |      1,201 |
+| src (Files)                                                 |          5 |        130 |          9 |         19 |        158 |
+| src-tauri                                                   |          4 |         76 |          5 |          9 |         90 |
+| src-tauri (Files)                                           |          3 |         65 |          3 |          6 |         74 |
+| src-tauri\src                                               |          1 |         11 |          2 |          3 |         16 |
+| src\components                                              |          7 |        352 |          0 |         13 |        365 |
+| src\views                                                   |          8 |        653 |          3 |         22 |        678 |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                    | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\Projects\PimVIDesktop\README.md                          | Markdown   |          4 |          0 |          4 |          8 |
+| d:\Projects\PimVIDesktop\index.html                         | HTML       |         13 |          0 |          2 |         15 |
+| d:\Projects\PimVIDesktop\package.json                       | JSON       |         35 |          0 |          1 |         36 |
+| d:\Projects\PimVIDesktop\pnpm-lock.yaml                     | YAML       |      1,132 |          0 |        183 |      1,315 |
+| d:\Projects\PimVIDesktop\postcss.config.js                  | JavaScript |          6 |          0 |          1 |          7 |
+| d:\Projects\PimVIDesktop\src-tauri\Cargo.toml               | TOML       |         16 |          3 |          5 |         24 |
+| d:\Projects\PimVIDesktop\src-tauri\build.rs                 | Rust       |          3 |          0 |          1 |          4 |
+| d:\Projects\PimVIDesktop\src-tauri\src\main.rs              | Rust       |         11 |          2 |          3 |         16 |
+| d:\Projects\PimVIDesktop\src-tauri\tauri.conf.json          | JSON       |         46 |          0 |          0 |         46 |
+| d:\Projects\PimVIDesktop\src\App.vue                        | Vue        |         25 |          0 |          4 |         29 |
+| d:\Projects\PimVIDesktop\src\api.js                         | JavaScript |          8 |          0 |          4 |         12 |
+| d:\Projects\PimVIDesktop\src\components\CadastroProduto.vue | Vue        |        113 |          0 |          3 |        116 |
+| d:\Projects\PimVIDesktop\src\components\Categoria.vue       | Vue        |         24 |          0 |          2 |         26 |
+| d:\Projects\PimVIDesktop\src\components\Logo.vue            | Vue        |          5 |          0 |          1 |          6 |
+| d:\Projects\PimVIDesktop\src\components\Navbar.vue          | Vue        |         65 |          0 |          3 |         68 |
+| d:\Projects\PimVIDesktop\src\components\NavbarComponent.vue | Vue        |         34 |          0 |          1 |         35 |
+| d:\Projects\PimVIDesktop\src\components\Product.vue         | Vue        |         65 |          0 |          1 |         66 |
+| d:\Projects\PimVIDesktop\src\components\Sale.vue            | Vue        |         46 |          0 |          2 |         48 |
+| d:\Projects\PimVIDesktop\src\main.js                        | JavaScript |         69 |          8 |          7 |         84 |
+| d:\Projects\PimVIDesktop\src\store.js                       | JavaScript |         25 |          1 |          4 |         30 |
+| d:\Projects\PimVIDesktop\src\styles.css                     | CSS        |          3 |          0 |          0 |          3 |
+| d:\Projects\PimVIDesktop\src\views\Cart.vue                 | Vue        |        173 |          3 |          4 |        180 |
+| d:\Projects\PimVIDesktop\src\views\Home.vue                 | Vue        |         76 |          0 |          5 |         81 |
+| d:\Projects\PimVIDesktop\src\views\Index.vue                | Vue        |          7 |          0 |          1 |          8 |
+| d:\Projects\PimVIDesktop\src\views\Login.vue                | Vue        |        103 |          0 |          2 |        105 |
+| d:\Projects\PimVIDesktop\src\views\Product.vue              | Vue        |         46 |          0 |          2 |         48 |
+| d:\Projects\PimVIDesktop\src\views\Register.vue             | Vue        |        115 |          0 |          3 |        118 |
+| d:\Projects\PimVIDesktop\src\views\Sales.vue                | Vue        |         48 |          0 |          3 |         51 |
+| d:\Projects\PimVIDesktop\src\views\User.vue                 | Vue        |         85 |          0 |          2 |         87 |
+| d:\Projects\PimVIDesktop\tailwind.config.js                 | JavaScript |         10 |          1 |          2 |         13 |
+| d:\Projects\PimVIDesktop\vite.config.js                     | JavaScript |         16 |          9 |          3 |         28 |
+| Total                                                       |            |      2,427 |         27 |        259 |      2,713 |
++-------------------------------------------------------------+------------+------------+------------+------------+------------+
